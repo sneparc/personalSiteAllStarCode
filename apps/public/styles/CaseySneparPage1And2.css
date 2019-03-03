@@ -1,0 +1,17 @@
+h1 {font-size:36px;
+	color:red;
+	text-align: center;
+}
+
+#likes{font-size:20px;
+	   color:blue;
+}
+
+p {font-size: 15px;
+   font-family: Arial, Verdana, sans-serif;
+}
+
+#greenpoint {font-size: 20px;
+			 color: green;
+			 text-align: center;
+}

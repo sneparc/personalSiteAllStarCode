@@ -1,0 +1,176 @@
+body{
+	background-color: red;
+}
+
+#banner{
+	min-width: 961px;
+	height: 150px;
+	margin: 0 auto;
+	border: solid 1px #000;
+}
+
+#banner h2{
+	vertical-align: middle;
+	font-size: 60pt;
+	font-family: Papyrus, fantasy;
+	text-align: center;
+	margin-top: 20px;
+}
+
+nav {
+	min-width: 961px;
+	height: 25px;
+	margin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid 1px #000;
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    width: 100%
+}
+
+nav li {
+	margin-left:auto;
+	width:33.33%;
+    float: left;
+}
+
+nav a:link, a:visited {
+    display: block;
+    max-width:398px;
+	min-width:309px;
+	font-weight: bold;
+	color:#fff;
+    text-align: center;
+    padding: 4px;
+    padding-right: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover, a:active {
+    background-color: #000;
+}
+#sectionWrap{
+	min-width: 961px;
+	margin:0 auto;
+}
+
+.section{
+	float: left;
+	height: 600px;
+	width:49.79%;
+	border: solid 1px #000;
+}
+
+#clear{
+	clear:both;
+}
+
+#WebDevelopment{
+	min-width: 961px;
+	height:250px;
+	border: solid 1px #000;
+	margin-left: 173px
+}
+
+.section img{
+	position: relative;
+	top:-40px;
+	float: left;
+	margin-top:60px;
+}
+
+.section h3{
+	position:relative;
+	margin: 0;
+	top: 0px;
+}
+
+.section p{
+}
+
+#likes{
+	position:relative;
+    font-size:20px;
+   	color:#000;
+}
+
+#WebDevelopment{
+	min-width: 960px;
+	margin: 0 auto;
+}
+#WebDevelopment h3{
+	margin-top: 0;
+}
+
+#WebDevelopment img{
+	float: left;
+	margin-top: -9px;
+}
+#WebDevelopment h2{
+	position: relative;
+	left:0;
+	top:70px;
+}
+
+#mainContent{
+	min-width: 961px;
+	border:solid 1px #000;
+	margin: 0 auto;
+}
+
+#mainContent h1{
+	text-align: center;
+}
+
+div.img {
+    margin-left: 80px;
+    padding:0px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
+#portfolio{
+	min-width: 961px;
+	margin:0 auto;
+	border:solid 1pt #000;
+}
+
+#portfolio h3{
+	position: relative;
+	top:-30px;
+	font-size: 20pt;
+}
+
+#portfolio ol{
+	margin-top: -50px;
+}
+
+#WebDevelopment p{
+	margin-left: 106px;
+}
